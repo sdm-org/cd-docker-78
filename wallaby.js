@@ -1,4 +1,4 @@
-// test   
+// test    
 module.exports = (wallaby) => {
   return {
     files: [
